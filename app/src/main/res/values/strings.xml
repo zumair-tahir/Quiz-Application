@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+
+    <string-array name="mcq">
+
+        <item>Q1: The name of which companion of Prophet PBUH (Sahabi) is written in Holy Quran?</item>
+        <item>A. Hazrat Hamza R.A</item>
+        <item>B. Hazrat Zaid bin Haris R.A</item>
+        <item>C. Hazrat Rehman bin Auf R.A</item>
+        <item>D. Hazrat Usman R.A</item>
+        <item>B</item>
+
+        <item>Q2: Who wrote Muqadimah-ibn-i-Salah?</item>
+        <item>A. Imam Ibn-i-Salah</item>
+        <item>B. Imam Sakhavi</item>
+        <item>C. Imam Nawavi</item>
+        <item>D. None of these</item>
+        <item>A</item>
+
+        <item>Q3: Who was first to arrange and write the Quran on paper and compiled it in the form of book?</item>
+        <item>A. Hazrat Umar (R.A)</item>
+        <item>B. Hazart Zaid bin sabit ( R.A)</item>
+        <item>C. Hazart Zaid bin Haris ( R.A)</item>
+        <item>D. Hazart Abu Bakar Saddique ( R.A)</item>
+        <item>B</item>
+
+        <item>Q4: Current Hijri Year is _________?</item>
+        <item>A. 1440 AH</item>
+        <item>B. 1441 AH</item>
+        <item>C. 1442 AH</item>
+        <item>D. 1443 AH</item>
+        <item>C</item>
+
+        <item>Q5: First translation of the Holy Quran was done in which language?</item>
+        <item>A. Persian</item>
+        <item>B. Punjabi</item>
+        <item>C. Sindhi</item>
+        <item>D. Turkish</item>
+        <item>A</item>
+
+        <item>Q6: How many Ayats are there in Surah Al-Ḥujurāt?</item>
+        <item>A. 8</item>
+        <item>B. 18</item>
+        <item>C. 28</item>
+        <item>D. 118</item>
+        <item>B</item>
+
+        <item>Q7: What does “Matan” mean?</item>
+        <item>A. Foundation</item>
+        <item>B. Substance</item>
+        <item>C. Text</item>
+        <item>D. None of these</item>
+        <item>C</item>
+
+        <item>Q8: Basic types of Hadith are:</item>
+        <item>A. Hadith-e-Fa’ili</item>
+        <item>B. Hadith-e-taqriri</item>
+        <item>C. Both a and b</item>
+        <item>D. None of these</item>
+        <item>D</item>
+
+        <item>Q9: The longest Surah of the Holy Quran is</item>
+        <item>A. Surah al Baqarah</item>
+        <item>B. Surah Al Imran</item>
+        <item>C. Surah-al-Taubah</item>
+        <item>D. Surah Yunus</item>
+        <item>A</item>
+
+        <item>Q10: Umm-ul-Masakeen was the title given to one of the wives of the Holy Prophet (PBUH)</item>
+        <item>A. Hazrat Sauda (RA)</item>
+        <item>B. Hazrat Zainab binte Jehash (RA)</item>
+        <item>C. Hazrat Zainab binte Khuzimah (RA)</item>
+        <item>D. Hazrat Safia (RA)</item>
+        <item>C</item>
+
+    </string-array>
+</resources>
